@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.cs.princeton.edu/~amanocha"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Aninda Manocha"
@@ -11,6 +11,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
+googleAnalytics = "UA-125135824-1"
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
@@ -136,7 +137,6 @@ paginate = 10
 
   # Configuration of talk pages.
   [params.talks]
-    # Show talk time?
     time = true
 
   # Configuration of publication pages.
@@ -190,6 +190,11 @@ paginate = 10
     icon_pack = "fa"
     link = "//github.com/amanocha"
 
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "//instagram.com/ph.dining"
+    
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]

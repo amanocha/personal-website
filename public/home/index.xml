@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Aninda Manocha</title>
+    <link>http://www.cs.princeton.edu/~amanocha/home/</link>
+    <description>Recent content in Homes on Aninda Manocha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 31 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.cs.princeton.edu/~amanocha/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.cs.princeton.edu/~amanocha/home/about/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.cs.princeton.edu/~amanocha/home/about/</guid>
+      <description>About I am a first-year graduate student in Computer Science at Princeton University advised by Professor Margaret Martonosi. My broad area of research is Computer Architecture and as a contributor to the DECADES project, I am working on the design of specialized hardware that can be reconfigured for various software applications and optimizes performance and energy efficiency. I am also interested in protocols for consistency and coherence among heterogenous systems.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.cs.princeton.edu/~amanocha/home/contact/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.cs.princeton.edu/~amanocha/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
